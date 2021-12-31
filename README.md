@@ -1,4 +1,4 @@
-# Color-Detection
+# Color-Detection using openCV
 - This is python file uses Pandas and OpenCV
 
 - Step - 1 :
